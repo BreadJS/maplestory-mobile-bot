@@ -1,1 +1,3 @@
-# maplestory-mobile-bot
+# maple-story-mobile-bot
+
+Instructions coming soon!
